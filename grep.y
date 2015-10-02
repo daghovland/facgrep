@@ -35,6 +35,8 @@
 #include <unistd.h>
 #include <fcntl.h>
 
+  // To prevent flex from generating declaration of input function
+#define YY_NO_INPUT
   
   extern int mainloop(bool, bool, bool, bool, bool, int, size_t*, regexp*, char*, bool, bool, bool, char*, FILE *);
   
