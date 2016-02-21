@@ -11,12 +11,5 @@
 <h2>Running</h2>
 <p>The executable is "grep". The available flags are "-x" for exact matches, also called "line-regexp" (usually it returns a match if some part of a line matches) "-g" for printing out the full FAC and matching process, "-v" for inverted match, "-n" for printing line numbers of occurrences, "-E" for compatibility with grep (extended regular expressions are the standard) and "-c" for counting number of matches. Note that the regular expressions supported are those usually called  "extended regular expressions".</p>
 
-<h2>Download</h2>
-<p><a href="facgrep.tar.bz2">facgrep.tar.bz2</a></p>
-<p><i>Last updated: 11. September 2009</i></p>
-<p>
-    <a href="http://validator.w3.org/check?uri=referer"><img
-        src="http://www.w3.org/Icons/valid-xhtml10-blue"
-        alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a>
-  </p>
+
 
